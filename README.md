@@ -1,5 +1,7 @@
 # 📄 PDF Question-Answering Chatbot (RAG)
 
+![App screenshot](App%20screenshot.png)
+
 Upload any PDF and ask questions about it. The app retrieves the most relevant
 passages with embeddings and uses an LLM to write an answer grounded in the document.
 
